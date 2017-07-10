@@ -12,7 +12,7 @@
 
 # update the database with each property
 
-User.find(24).update(
+User.find(103).update(
   book_genre:  @user.book_genre
   chuck_norris_fact: Faker::ChuckNorris.fact,
   beer_name: Faker::Beer.name,
