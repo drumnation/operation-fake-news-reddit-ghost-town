@@ -1,5 +1,5 @@
-# Addictme
-### Operation-fake-news-reddit-ghost-town
+# AddictMe.news
+### A.K.A. Operation Fake News Reddit Ghost Town
 
 ![Watch the Demo](/demo.gif)
 
